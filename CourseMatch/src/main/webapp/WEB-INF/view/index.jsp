@@ -1,0 +1,1 @@
+#Front end code (JSP pages are like html pages).. more pages wil be added later
