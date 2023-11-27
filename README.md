@@ -1,4 +1,4 @@
-NEU_Course_Match
-================
+# NEU_Course_Match
 
-# Final project - CSYE-6200
+Final project - CSYE-6200
+-------------------------
